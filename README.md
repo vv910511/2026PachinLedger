@@ -1,5 +1,5 @@
 # Pachi Ledger — Pachinko / Pachislot 紀錄 PWA
-
+https://vv910511.github.io/2026PachinLedger/
 ## 在 VS Code 使用
 1. 以 VS Code 開啟 `pachinko-tracker` 資料夾。
 2. 安裝 Live Server 擴充套件，在 `index.html` 點選 **Open with Live Server**；或以 `python3 -m http.server 8000` 開啟伺服器。
